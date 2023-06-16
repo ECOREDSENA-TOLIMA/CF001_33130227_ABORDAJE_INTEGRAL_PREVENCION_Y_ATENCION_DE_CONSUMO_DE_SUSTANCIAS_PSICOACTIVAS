@@ -1,18 +1,17 @@
 <template lang="pug">
-.curso-main-container.pb-3.tema1
+.curso-main-container.pb-3.tema6
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 1
-      h1 Salud mental y consumo de Sustancias Psicoactivas - SPA
-      
+        span 6
+      h1 Violencia intrafamiliar
+
 </template>
 
 <script>
 export default {
-  name: 'Tema1',
-  components: {},
+  name: 'Tema6',
   data: () => ({
     // variables de vue
   }),
