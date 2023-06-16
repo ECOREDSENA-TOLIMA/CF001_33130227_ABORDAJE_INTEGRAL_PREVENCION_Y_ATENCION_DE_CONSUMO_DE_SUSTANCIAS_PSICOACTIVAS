@@ -3,8 +3,8 @@ export default {
     componenteFormativo: 'Consumo, abuso y adicciones y marco normativo',
     descripcionCurso:
       'Este componente formativo se enfoca en la comprensión de las características del consumo que pueden llevar a desarrollar una enfermedad adictiva y la forma como esta debe ser abordada desde una perspectiva de derechos para las personas consumidoras y el abordaje de atención integral y tratamiento de la enfermedad.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -12,6 +12,18 @@ export default {
       },
       {
         clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
     ],
