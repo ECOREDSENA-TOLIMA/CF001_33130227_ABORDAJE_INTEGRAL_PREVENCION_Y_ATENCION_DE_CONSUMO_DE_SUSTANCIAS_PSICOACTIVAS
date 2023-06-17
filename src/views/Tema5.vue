@@ -126,19 +126,19 @@
       .col-12.order-2.order-lg-1(data-aos="fade-left")
         TabsA.color-acento-contenido.mb-5
           .tarjeta.clr-paleCyan.p-4(titulo="1. Presencia de límites")
-            h4 1. Presencia de límites
+            h4 Presencia de límites
             p Los límites son invisibles, pero cuando son claros, todos los miembros de una familia los comprenden y los asumen como parte de la cotidianidad. Los límites están relacionados con la delimitación de espacios vitales y son fundamentales para construir una identidad sana, al igual que un desarrollo de personalidad, independencia y sentido de pertenencia a su entorno familiar. Un niño que no entiende de sus límites desde su nacimiento crecerá conflictuado y aumentará sus riesgos frente a la salud mental. Los límites se construyen a partir de la definición de reglas claras, hábitos, correcciones sanas, diálogo y ejemplo. Los límites pueden ser claros, difusos o rígidos y la funcionalidad o disfuncionalidad de una familia dependerá del tipo de límites que establezca, entre otros factores.
 
           .tarjeta.clr-paleCyan.p-4(titulo="2. Distribución de roles")
-            h4 2. Distribución de roles
+            h4 Distribución de roles
             p Estos se refieren al papel y responsabilidad que cada persona cumple al interior de la familia, lo cual genera orden, disciplina y funcionalidad del sistema familiar. 
 
           .tarjeta.clr-paleCyan.p-4(titulo="3. Jerarquía ")
-            h4 3. Jerarquía 
+            h4 Jerarquía 
             p Es la forma como se establecen y organizan las relaciones de poder al interior de la familia, una jerarquía vertical que marca superioridad por lo general es la base de todas las formas y tipos de violencia al interior de la familia. Es importante que en esta jerarquía se establezcan figuras claras de autoridad  para establecer límites definidos, educar, orientar la conducta y guiar.
 
           .tarjeta.clr-paleCyan.p-4(titulo="4. Estilos de crianza")
-            h4 4. Estilos de crianza
+            h4 Estilos de crianza
             p Se refiere a la forma como los padres ejercen la autoridad al interior de la familia. Los padres pueden ser autoritarios, permisivos o democráticos. Cada estilo marcan formas de ser y hacer las cosas al interior de la familia, pero también influye en la conformación de carácter y permiten moldear la conducta. 
             
     Separador
