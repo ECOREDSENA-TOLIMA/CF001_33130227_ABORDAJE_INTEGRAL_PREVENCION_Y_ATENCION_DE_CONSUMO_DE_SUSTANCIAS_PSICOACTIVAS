@@ -9,12 +9,30 @@
 
     .row.justify-content-center.align-items-center.py-0.mb-4
       .col-12(data-aos="fade-up")
-        p.mb-5 En el siguiente video, se amplía el concepto de sustancias psicoactivas, su uso y su clasificación.
-      .col-12.mt-2(data-aos="fade-up")
-        figure.mt-0
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+        p.mb-2 En la siguiente presentación, se amplía el concepto de sustancias psicoactivas, su uso y su clasificación.
     
+    .row.justify-content-center.align-items-center.py-0(data-aos="fade-left")
+      .col-12.mb-4
+        AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
+          .row(titulo="Acceder a las sustancias")
+            .col-12.mb-4.mb-md-0
+              p Las personas a lo largo de la historia han buscado formas de estimulación que ayuden a generar efectos de placer, sin embargo, en la actualidad se ha desarrollado una infinidad de posibilidades que hacen muy tentador para las poblaciones de alto riesgo, consumir y, además, acceder a la sustancia.
+          .row(titulo="Consumo de SPA")
+            .col-12.mb-4.mb-md-0
+              p En Colombia, las sustancias pueden ser legales como el alcohol y el tabaco y otras son consideradas ilegales, debido a que no se permite el consumo de las mismas y su uso y comercialización es penalizado. En la actualidad, el consumo de SPA en el mundo se ha incrementado, lo que representa un riesgo para la salud y se ha considerado un problema de salud pública debido a las consecuencias del consumo problemático y la enfermedad adictiva.
+          .row(titulo="Recuerde que es un SPA")
+            .col-12.mb-4.mb-md-0
+              p Recuerde que una SPA (Sustancia Psicoactivas) es toda sustancia química que puede activar el sistema nervioso central, produciendo alteraciones en la conciencia, de las funciones psicológicas, perturbación mental y sensorial que se ve reflejada en el comportamiento y las emociones de quien la consume.
+          .row(titulo="Uso recreativo")
+            .col-12.mb-4.mb-md-0
+              p Las personas que consumen sustancias psicoactivas en un primer momento coinciden con el uso recreativo, el cual hace parte de los escenarios sociales en donde la diversión hace que una droga que se acepta socialmente sea parte de la vida de las personas desde muy temprana edad; es importante reconocer que el consumo de una droga puede llevar al consumo de otras.
+          .row(titulo="Mecanismo de escape")
+            .col-12.mb-4.mb-md-0
+              p Por otro lado, una SPA puede ser un mecanismo de escape a una realidad que no se quiere afrontar. Según el tipo de droga, puede producir efectos sobre la conciencia que permiten olvidar el dolor emocional que se puede estar sintiendo. El uso de una sustancia y las razones por la cuales cada persona elige consumir está directamente relacionado con sus condiciones personales, factores genéticos, contexto y nivel de satisfacción con la propia vida.
+          .row(titulo="Clasificación")
+            .col-12.mb-4.mb-md-0
+              p Las sustancias psicoactivas pueden clasificarse de diferentes formas teniendo en cuenta su efecto sobre el cerebro, la legalidad, el origen y la volatilidad de las mismas, aquí se abordará la clasificación, de acuerdo con los efectos sobre el sistema nervioso-cerebro, que es la que tiene pertinencia para comprender los riesgos frente a la salud mental.
+          
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.1 Efectos
@@ -151,32 +169,32 @@
     p(data-aos="zoom-in") A lo largo del texto se ha hablado de cómo el consumo puede terminar en una enfermedad adictiva de manejo interdisciplinar y de efectos fuertes sobre la salud psicológica, física y en el entorno social en general. Cabe resaltar que no todas las personas que consumen y abusan del consumo, terminan desarrollando la adicción y esto tiene que ver con las condiciones individuales que generan mayor riesgo, en su mayoría ligadas a la afectividad y rasgos de personalidad. 
     p(data-aos="zoom-in") A continuación, se detallan algunos factores que se consideran pueden generar mayor riesgo de desarrollar la enfermedad; sin embargo, no son los únicos. 
     p(data-aos="zoom-in") Es importante comprender que más allá de los factores individuales, familiares y sociales, se ha estudiado otros factores determinantes para el consumo entre los que se encuentran los siguientes:
-
-    TabsC.color-acento-contenido(data-aos="fade-up")
-      .py-3.py-md-4(titulo="Enfermedad mental")
-        .row.justify-content-center.align-items-center
-          .col-md-6.col-12
+    
+    .row.justify-content-center.align-items-center.py-0(data-aos="fade-left")
+      .col-12.mb-4
+        TabsC.color-acento-contenido
+          .py-3.py-md-4(titulo="Enfermedad mental")
             .row.justify-content-center.align-items-center
               .col-md-6.col-12
-                figure
-                  img(src='@/assets/curso/temas/tema3/tema3-04.svg', alt='')
-          .col-md-6.mb-4.mb-md-0.col-12
-            h4 Enfermedad mental
-            p Se ha estudiado la co-ocurrencia de diferentes trastornos psiquiátricos derivados de las adicciones y se ha encontrado que las personas  con historial psiquiátrico de enfermedades como trastornos de ansiedad, depresión, esquizofrenia, trastorno bipolar, trastornos de la personalidad, estas personas pueden tener un 50% más de probabilidad de desarrollar una enfermedad adictiva que una persona sin diagnóstico psiquiátrico de base. 
-        
-      .py-3.py-md-4(titulo="Vínculos afectivos")
-        .row.justify-content-center.align-items-center
-          .col-md-6.mb-4.mb-md-0.col-12
+                .row.justify-content-center.align-items-center
+                  .col-md-6.col-12
+                    figure
+                      img(src='@/assets/curso/temas/tema3/tema3-04.svg', alt='')
+              .col-md-6.mb-4.mb-md-0.col-12
+                h4 Enfermedad mental
+                p Se ha estudiado la co-ocurrencia de diferentes trastornos psiquiátricos derivados de las adicciones y se ha encontrado que las personas  con historial psiquiátrico de enfermedades como trastornos de ansiedad, depresión, esquizofrenia, trastorno bipolar, trastornos de la personalidad, estas personas pueden tener un 50% más de probabilidad de desarrollar una enfermedad adictiva que una persona sin diagnóstico psiquiátrico de base. 
+            
+          .py-3.py-md-4(titulo="Vínculos afectivos")
             .row.justify-content-center.align-items-center
-              .col-md-10.col-12
-                figure
-                  img(src='@/assets/curso/temas/tema3/tema3-05.svg', alt='')
-          .col-md-6.col-12
-            h4 Vínculos afectivos
-            p La construcción de vínculos afectivos sanos a lo largo de la vida es fundamental para proteger la estructura psicológica. Cabe resaltar que la violencia y el abuso es la expresión más sentida en la afectividad humana que aumenta el riesgo al consumo en la búsqueda de llenar vacíos emocionales que compensen el malestar emocional.
-      
-
-
+              .col-md-6.mb-4.mb-md-0.col-12
+                .row.justify-content-center.align-items-center
+                  .col-md-10.col-12
+                    figure
+                      img(src='@/assets/curso/temas/tema3/tema3-05.svg', alt='')
+              .col-md-6.col-12
+                h4 Vínculos afectivos
+                p La construcción de vínculos afectivos sanos a lo largo de la vida es fundamental para proteger la estructura psicológica. Cabe resaltar que la violencia y el abuso es la expresión más sentida en la afectividad humana que aumenta el riesgo al consumo en la búsqueda de llenar vacíos emocionales que compensen el malestar emocional.
+          
 </template>
 
 <script>
