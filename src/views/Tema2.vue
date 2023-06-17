@@ -24,9 +24,9 @@
     p(data-aos="zoom-in") En Colombia todas las personas con patologías que tienen origen en el consumo, abuso o dependencia de sustancias psicoactivas, tienen derecho a ser atendidos de manera integral por las entidades que hacen parte del sistema de salud a nivel público o privado. 
     p(data-aos="zoom-in") La Ley 1566 de 2012 tiene como objeto garantizar los derechos de los consumidores de SPA para acceder a los servicios de salud, recibir una atención integral y mejorar sus condiciones de vida, adicionalmente, ha representado la oportunidad de entender el consumo y adicción de SPA como un fenómeno social que requiere de todo el acompañamiento del Estado a través de las instituciones previstas para garantizar atención en los diferentes niveles, apoyar la reducción de consumo y superar la exclusión que viven las personas que tiene una enfermedad adictiva o son consumidoras.
     p(data-aos="zoom-in") En el marco de lo establecido en la Política Integral para la Prevención y Atención del Consumo de Sustancias Psicoactivas (2019) “el objetivo principal es gestionar los resultados en salud de las personas con consumo problemático, promoviendo la oportunidad, continuidad, acceso y calidad en servicios de tratamiento, y la integralidad de la atención en salud”. 
-    p.mb-5(data-aos="zoom-in") Para mayor información, se puede consultar el siguiente enlace 
+    p.mb-5(data-aos="zoom-in") Para mayor información, se puede consultar el siguiente enlace.
 
-    .row.justify-content-center.align-items-center.py-0  
+    .row.justify-content-center.align-items-center.py-0.mt-0 
       .col-md-8.col-12(data-aos="fade-left")
         a.anexo.mb-4.mb-lg-0(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/politica-prevencion-atencion-spa.pdf" target="_blank")
           .anexo__icono
@@ -34,7 +34,7 @@
           .anexo__texto
             h4 Enlace web.  Política Integral para la Prevención y Atención del Consumo de Sustancias Psicoactivas
 
-      .col-12(data-aos="fade-left")
+      .col-12.mt-4(data-aos="fade-left")
         p La atención integral se orienta de igual forma hacia el cuidado y bienestar de las personas con consumo problemático de SPA que no desean tratamiento, dando respuesta a la reducción de daños, análisis multifactoriales para ellos y sus familias y el seguimiento voluntario de acuerdo a las necesidades.
         p Para el país ha sido muy importante la concepción del consumo y las adicciones desde la perspectiva de la enfermedad ya que esto ha permitido:
 

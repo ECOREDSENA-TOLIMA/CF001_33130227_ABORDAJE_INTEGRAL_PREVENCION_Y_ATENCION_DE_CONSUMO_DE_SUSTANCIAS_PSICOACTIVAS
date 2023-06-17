@@ -46,7 +46,7 @@
     p(data-aos="zoom-in") Los seres humanos, por naturaleza, construyen redes de apoyo, convivir con otros, es un llamado natural de protección y cuidado. Desde el nacimiento la primera red social es la familia, luego la escuela, los amigos, el trabajo. De esta forma, la relación con otros es un elemento fundamental en la conservación de una buena salud mental. Sin embargo, del tipo de relaciones y personas con las cuáles se crean vínculos afectivos, de amistad o apoyo y de la calidad de estas, depende el riesgo o amenaza al cual se pueda exponer. Por ejemplo, las presiones de grupo en cualquier época de la vida, pueden generar altos niveles de estrés o pueden llevar a las personas a hacer cosas que solos jamás harían: drogas, sexo sin responsabilidad, alcohol y riesgo inclusive de la propia vida.
     p(data-aos="zoom-in") A continuación, se mencionan algunas situaciones en las que las redes sociales pueden generar consumo de SPA en las personas.
 
-    TabsC.color-acento-contenido(data-aos="fade-left")
+    TabsC.color-acento-contenido.mt-4(data-aos="fade-left")
       .py-3.py-md-4(titulo="El mundo de las redes sociales hoy")
         .row.justify-content-center.align-items-center
           .col-md-6.col-12

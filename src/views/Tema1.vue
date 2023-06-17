@@ -40,6 +40,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-2(data-aos="zoom-in") Es importante entender que este concepto no se concibe desde la ausencia de la enfermedad o el problema, sino de la capacidad de afrontamiento que permite a una persona, a pesar de estar diagnosticada con una psicopatología, tener una salud mental positiva en términos de su productividad y sus interacciones.
             br
+            br
             p.mb-0(data-aos="zoom-in") La Organización Mundial de la Salud (OMS) ha identificado tres objetivos principales para mejorar la salud mental: 
             br
             ul.lista-ul.px-2(data-aos="zoom-out")
@@ -148,7 +149,7 @@
       
       .col-12.mt-5
         p(data-aos="zoom-in") Para entender por qué la adicción es una enfermedad, es importante tener claro que el cerebro humano maneja un sistema de compensaciones, que funciona a través de diversas estructuras tales como el sistema límbico (cerebro emocional) y el hipocampo, que en condiciones naturales se activan a través de los mecanismos fisiológicos de refuerzo como tomar agua -cuando hay sed-, comer -cuando se siente hambre- o las conductas sexuales -cuando hay deseo sexual-; estos se conocen como efectos reforzadores. 
-        p.mt-2.mb-4(data-aos="zoom-in") Sin embargo, cuando este sistema se dispara a través de sustancias que el cerebro no necesita y que lo estimulan, el efecto de refuerzo se vuelve persistente a través del recuerdo de las sensaciones placenteras que la sustancia generó, incitando al deseo o craving para experimentarlo de nuevo. 
+        p.mt-2.mb-4(data-aos="zoom-in") Sin embargo, cuando este sistema se dispara a través de sustancias que el cerebro no necesita y que lo estimulan, el efecto de refuerzo se vuelve persistente a través del recuerdo de las sensaciones placenteras que la sustancia generó, incitando al deseo o #[i craving] para experimentarlo de nuevo. 
 
     .row.justify-content-center.align-items-center.mt-2.mb-4 
       .col-12.col-md-6(data-aos="zoom-in")

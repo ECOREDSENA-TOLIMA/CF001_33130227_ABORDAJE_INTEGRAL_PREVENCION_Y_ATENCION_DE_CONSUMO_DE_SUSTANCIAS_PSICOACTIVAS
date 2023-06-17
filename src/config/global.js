@@ -272,13 +272,6 @@ export default {
         'https://www.unodc.org/documents/colombia/2018/Junio/CO03142016_estudio_consumo_escolares_2016.pdf',
     },
     {
-      tema: 'Sustancias psicoactivas',
-      referencia:
-        'Infodrogas (2.022). <em>Qué son las drogas - Clasificación.</em>',
-      tipo: 'Texto informativo',
-      link: 'https://www.infodrogas.org/drogas?start=1 ',
-    },
-    {
       tema: 'Papel de las redes sociales en el consumo de SPA',
       referencia:
         'De Corral, P., E. (2010). Adicción a las nuevas tecnologías y a las redes sociales en jóvenes. <em>Adicciones</em>, 22(2), 91-95.',
@@ -494,7 +487,7 @@ export default {
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Davison Gaitán Esocbar',
+          nombre: 'Davison Gaitán Escobar',
           cargo: 'Desarrollador Fullstack',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
@@ -514,7 +507,7 @@ export default {
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Davison Gaitán Esocbar',
+          nombre: 'Davison Gaitán Escobar',
           cargo: 'Actividad Didáctica',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
