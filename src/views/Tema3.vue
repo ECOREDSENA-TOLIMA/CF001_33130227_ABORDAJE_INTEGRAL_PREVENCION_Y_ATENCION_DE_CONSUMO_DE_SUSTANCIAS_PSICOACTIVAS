@@ -22,7 +22,7 @@
               p En Colombia, las sustancias pueden ser legales como el alcohol y el tabaco y otras son consideradas ilegales, debido a que no se permite el consumo de las mismas y su uso y comercialización es penalizado. En la actualidad, el consumo de SPA en el mundo se ha incrementado, lo que representa un riesgo para la salud y se ha considerado un problema de salud pública debido a las consecuencias del consumo problemático y la enfermedad adictiva.
           .row(titulo="Recuerde que es un SPA")
             .col-12.mb-4.mb-md-0
-              p Recuerde que una SPA (Sustancia Psicoactivas) es toda sustancia química que puede activar el sistema nervioso central, produciendo alteraciones en la conciencia, de las funciones psicológicas, perturbación mental y sensorial que se ve reflejada en el comportamiento y las emociones de quien la consume.
+              p Recuerde que una SPA (Sustancias Psicoactivas) es toda sustancia química que puede activar el sistema nervioso central, produciendo alteraciones en la conciencia, de las funciones psicológicas, perturbación mental y sensorial que se ve reflejada en el comportamiento y las emociones de quien la consume.
           .row(titulo="Uso recreativo")
             .col-12.mb-4.mb-md-0
               p Las personas que consumen sustancias psicoactivas en un primer momento coinciden con el uso recreativo, el cual hace parte de los escenarios sociales en donde la diversión hace que una droga que se acepta socialmente sea parte de la vida de las personas desde muy temprana edad; es importante reconocer que el consumo de una droga puede llevar al consumo de otras.

@@ -145,11 +145,11 @@
           .col-md-5.col-12.mb-4.mb-md-0
             p.mb-0 Dentro de los riesgos psicosociales estudiados se encuentran:
             p.mb-0 El estrés.
-            p.mb-0 Violencia y bullying.
+            p.mb-0 Violencia y #[i bullying.]
             p.mb-0 Acoso laboral.
             p.mb-0 Acoso sexual.
             p.mb-0 Inseguridad contractual.
-            p.mb-0 El burnout o desgaste profesional.
+            p.mb-0 El #[i burnout] o desgaste profesional.
             p.mb-0 Insatisfacción laboral.
 
           .col-md-7.col-12
