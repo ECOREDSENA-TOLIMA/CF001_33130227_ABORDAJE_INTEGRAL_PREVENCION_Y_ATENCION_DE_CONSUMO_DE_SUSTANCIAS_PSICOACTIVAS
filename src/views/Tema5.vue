@@ -77,8 +77,13 @@
     Separador
     #t_5_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 5.4 Familia
-    p(data-aos="zoom-in") Hernández (2011), define la familia como una unidad ecosistémica de supervivencia y de construcción de solidaridades de destino, a través de los rituales cotidianos. Es ese lugar donde la vida confluye para aprender a través del ejemplo, del buen trato, de las caricias, del afecto, de las conversaciones.
-    p(data-aos="zoom-in") La familia está llamada a enseñar a amar, esta es la esencia de las relaciones humanas y por sencillo que parezca, es la falla más común del sistema familiar; cabe resaltar que el lugar de protección por excelencia de los seres humanos es la familia.
+    .row.justify-content-center.align-items-center.mb-4
+      .col-md-6.col-12(data-aos="zoom-in")
+        figure
+          img(src='@/assets/curso/temas/tema5/tema5-04.png', alt='')
+      .col-md-6.col-12
+        p(data-aos="zoom-in") Hernández (2011), define la familia como una unidad ecosistémica de supervivencia y de construcción de solidaridades de destino, a través de los rituales cotidianos. Es ese lugar donde la vida confluye para aprender a través del ejemplo, del buen trato, de las caricias, del afecto, de las conversaciones.
+        p(data-aos="zoom-in") La familia está llamada a enseñar a amar, esta es la esencia de las relaciones humanas y por sencillo que parezca, es la falla más común del sistema familiar; cabe resaltar que el lugar de protección por excelencia de los seres humanos es la familia.
  
     Separador
     #t_5_5.titulo-segundo.color-acento-contenido(data-aos="fade-left")

@@ -11,28 +11,52 @@
       .col-12(data-aos="fade-up")
         p.mb-2 En la siguiente presentación, se amplía el concepto de sustancias psicoactivas, su uso y su clasificación.
     
-    .row.justify-content-center.align-items-center.py-0(data-aos="fade-left")
-      .col-12.mb-4
-        AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
-          .row(titulo="Acceder a las sustancias")
-            .col-12.mb-4.mb-md-0
-              p Las personas a lo largo de la historia han buscado formas de estimulación que ayuden a generar efectos de placer, sin embargo, en la actualidad se ha desarrollado una infinidad de posibilidades que hacen muy tentador para las poblaciones de alto riesgo, consumir y, además, acceder a la sustancia.
-          .row(titulo="Consumo de SPA")
-            .col-12.mb-4.mb-md-0
-              p En Colombia, las sustancias pueden ser legales como el alcohol y el tabaco y otras son consideradas ilegales, debido a que no se permite el consumo de las mismas y su uso y comercialización es penalizado. En la actualidad, el consumo de SPA en el mundo se ha incrementado, lo que representa un riesgo para la salud y se ha considerado un problema de salud pública debido a las consecuencias del consumo problemático y la enfermedad adictiva.
-          .row(titulo="Recuerde que es un SPA")
-            .col-12.mb-4.mb-md-0
-              p Recuerde que una SPA (Sustancias Psicoactivas) es toda sustancia química que puede activar el sistema nervioso central, produciendo alteraciones en la conciencia, de las funciones psicológicas, perturbación mental y sensorial que se ve reflejada en el comportamiento y las emociones de quien la consume.
-          .row(titulo="Uso recreativo")
-            .col-12.mb-4.mb-md-0
-              p Las personas que consumen sustancias psicoactivas en un primer momento coinciden con el uso recreativo, el cual hace parte de los escenarios sociales en donde la diversión hace que una droga que se acepta socialmente sea parte de la vida de las personas desde muy temprana edad; es importante reconocer que el consumo de una droga puede llevar al consumo de otras.
-          .row(titulo="Mecanismo de escape")
-            .col-12.mb-4.mb-md-0
-              p Por otro lado, una SPA puede ser un mecanismo de escape a una realidad que no se quiere afrontar. Según el tipo de droga, puede producir efectos sobre la conciencia que permiten olvidar el dolor emocional que se puede estar sintiendo. El uso de una sustancia y las razones por la cuales cada persona elige consumir está directamente relacionado con sus condiciones personales, factores genéticos, contexto y nivel de satisfacción con la propia vida.
-          .row(titulo="Clasificación")
-            .col-12.mb-4.mb-md-0
-              p Las sustancias psicoactivas pueden clasificarse de diferentes formas teniendo en cuenta su efecto sobre el cerebro, la legalidad, el origen y la volatilidad de las mismas, aquí se abordará la clasificación, de acuerdo con los efectos sobre el sistema nervioso-cerebro, que es la que tiene pertinencia para comprender los riesgos frente a la salud mental.
-          
+
+    .tarjeta.tarjeta--azul.p-4.mb-5.mt-5(data-aos="fade-left")
+      SlyderA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
+        .row.justify-content-center.align-items-center
+          .col-md-5.mb-4.mb-md-0
+            h4 Acceder a las sustancias
+            p.mb-0 Las personas a lo largo de la historia han buscado formas de estimulación que ayuden a generar efectos de placer, sin embargo, en la actualidad se ha desarrollado una infinidad de posibilidades que hacen muy tentador para las poblaciones de alto riesgo, consumir y, además, acceder a la sustancia.
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/tema3-06.png', alt='')
+        .row.justify-content-center.align-items-center
+          .col-md-5.mb-4.mb-md-0
+            h4 Consumo de SPA
+            p.mb-0 En Colombia, las sustancias pueden ser legales como el alcohol y el tabaco y otras son consideradas ilegales, debido a que no se permite el consumo de las mismas y su uso y comercialización es penalizado. En la actualidad, el consumo de SPA en el mundo se ha incrementado, lo que representa un riesgo para la salud y se ha considerado un problema de salud pública debido a las consecuencias del consumo problemático y la enfermedad adictiva.
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/tema3-07.png', alt='')
+        .row.justify-content-center.align-items-center
+          .col-md-5.mb-4.mb-md-0
+            h4 Recuerde que es un SPA
+            p.mb-0 Recuerde que una SPA (Sustancias Psicoactivas) es toda sustancia química que puede activar el sistema nervioso central, produciendo alteraciones en la conciencia, de las funciones psicológicas, perturbación mental y sensorial que se ve reflejada en el comportamiento y las emociones de quien la consume.
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/tema3-08.png', alt='')
+        .row.justify-content-center.align-items-center
+          .col-md-5.mb-4.mb-md-0
+            h4 Uso recreativo
+            p.mb-0 Las personas que consumen sustancias psicoactivas en un primer momento coinciden con el uso recreativo, el cual hace parte de los escenarios sociales en donde la diversión hace que una droga que se acepta socialmente sea parte de la vida de las personas desde muy temprana edad; es importante reconocer que el consumo de una droga puede llevar al consumo de otras.
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/tema3-09.png', alt='')
+        .row.justify-content-center.align-items-center
+          .col-md-5.mb-4.mb-md-0
+            h4 Mecanismo de escape
+            p.mb-0 Por otro lado, una SPA puede ser un mecanismo de escape a una realidad que no se quiere afrontar. Según el tipo de droga, puede producir efectos sobre la conciencia que permiten olvidar el dolor emocional que se puede estar sintiendo. El uso de una sustancia y las razones por la cuales cada persona elige consumir está directamente relacionado con sus condiciones personales, factores genéticos, contexto y nivel de satisfacción con la propia vida.
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/tema3-10.png', alt='')
+        .row.justify-content-center.align-items-center
+          .col-md-5.mb-4.mb-md-0
+            h4 Clasificación
+            p.mb-0 Las sustancias psicoactivas pueden clasificarse de diferentes formas teniendo en cuenta su efecto sobre el cerebro, la legalidad, el origen y la volatilidad de las mismas, aquí se abordará la clasificación, de acuerdo con los efectos sobre el sistema nervioso-cerebro, que es la que tiene pertinencia para comprender los riesgos frente a la salud mental.
+          .col-md-7
+            figure
+              img(src='@/assets/curso/temas/tema3/tema3-11.png', alt='')
+
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.1 Efectos
