@@ -158,7 +158,7 @@
 
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 3.2 Efectos
+      h2 3.2 Grupos Vulnerables
     p(data-aos="zoom-in") Estos son grupos poblacionales desprotegidos que se encuentran en un alto riesgo de consumir sustancias psicoactivas.
     p(data-aos="zoom-in") A continuación, se mencionan ciertos factores que inciden en que la vulnerabilidad frente al consumo de SPA se incremente.
 
