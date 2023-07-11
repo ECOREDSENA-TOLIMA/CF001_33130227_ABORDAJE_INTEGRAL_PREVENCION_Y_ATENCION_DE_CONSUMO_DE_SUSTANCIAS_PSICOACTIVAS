@@ -85,7 +85,7 @@
             img(src='@/assets/curso/temas/tema6/tema6-05.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
             .p-4
-              h2 Violencia patrimonial
+              h4 Violencia patrimonial
               p Acciones encaminadas a ocultar o quitar posesión de bienes que forman parte del patrimonio conyugal. 
 
 

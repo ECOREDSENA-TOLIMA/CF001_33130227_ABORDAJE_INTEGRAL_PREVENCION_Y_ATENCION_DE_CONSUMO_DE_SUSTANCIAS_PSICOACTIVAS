@@ -148,11 +148,7 @@
         .row.justify-content-center.align-items-center
           .col-md-5.col-12.mb-4.mb-md-0
             h4 Atención de urgencias 
-            p Cuando el paciente presenta trastornos mentales:
-            ul.lista-ul
-              li
-                i.lista-ul__vineta
-                | Esta atención cubre la atención en urgencias y observación durante las primeras 24 horas en caso de que se ponga en peligro la vida del paciente o sus familiares.
+            p Cuando el paciente presenta trastornos mentales: esta atención cubre la atención en urgencias y observación durante las primeras 24 horas en caso de que se ponga en peligro la vida del paciente o sus familiares.
           .col-md-7.col-12
             figure
               img(src='@/assets/curso/temas/tema2/tema2-04.png', alt='')

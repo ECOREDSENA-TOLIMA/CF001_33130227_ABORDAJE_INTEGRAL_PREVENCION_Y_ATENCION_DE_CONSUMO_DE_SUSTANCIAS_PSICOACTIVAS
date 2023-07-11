@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.py-0.mb-4
       .col-12(data-aos="fade-up")
         p Son los lugares en donde confluye la vida de las personas y en donde se entrecruzan las personas, la cultura, los intereses colectivos e individuales, los valores y los principios. En el marco del desarrollo humano los entornos son fundamentales para los procesos de socialización, el aprendizaje, el desarrollo de vínculos afectivos, aprender de la resolución de conflictos y desarrollar habilidades para la vida personal, social y profesional. De acuerdo con el ciclo vital, cada entorno cumple un papel diferente en la vida de las personas y su influencia dependerá del tipo de interacciones y calidad de este.
-        p.mb-0 A continuación, se explican algunos tipos de entornos.
+        p.mb-0 A continuación, se explican algunos tipos de entornos:
 
     Separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")

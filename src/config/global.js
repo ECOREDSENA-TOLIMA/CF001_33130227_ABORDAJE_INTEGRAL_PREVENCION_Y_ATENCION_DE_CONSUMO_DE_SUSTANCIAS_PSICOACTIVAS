@@ -326,7 +326,7 @@ export default {
         'las condiciones de vida son el entorno cotidiano de las personas donde estas viven, actúan y trabajan. Estas condiciones de vida son producto de las circunstancias sociales y económicas, y del entorno físico, todo lo cual puede ejercer impacto en la salud, estando en gran medida fuera del control inmediato del individuo.',
     },
     {
-      termino: 'Droga Alucinógena',
+      termino: 'Droga alucinógena',
       significado:
         'sustancia que provoca alteraciones de la percepción, de la coherencia del pensamiento y de la regularidad del estado de ánimo, pero sin confusión mental persistente o trastornos de la memoria.',
     },
@@ -364,6 +364,11 @@ export default {
   referencias: [
     {
       referencia:
+        'Alcántara, J. (2008). CF1 - ¿Qué es salud y salud mental? [Video]. YouTube. ',
+      link: 'https://www.youtube.com/watch?v=3_Dq5SHwZ0I',
+    },
+    {
+      referencia:
         'Barra, A., y Diazconti, R. (2013). <em>Guías para el debate: diferencias entre uso, abuso y dependencia a las drogas.</em> ',
       link:
         'https://idpc.net/es/publications/2013/10/guias-para-el-debate-las-diferencias-entre-el-uso-el-abuso-y-la-dependencia-a-las-drogas',
@@ -392,7 +397,17 @@ export default {
     },
     {
       referencia:
+        '<em>Hernández, R. (2011). Define la familia como una unidad ecosistémica de supervivencia y de construcción de solidaridades de destino, a través de los rituales cotidianos.</em>',
+      link: '',
+    },
+    {
+      referencia:
         'Huttanus, S. R., Mazariegos, D. A., y Ramírez, A. M. (2016). Violencia en la familia: efectos psicológicos del maltrato. <em>Revista PsicoEducativa: Reflexiones y Propuestas,</em> 2(4), 99-104.',
+      link: '',
+    },
+    {
+      referencia:
+        'Llavona, J. G., & Llavona, R. G. (2015). En: La familia en la sociedad actual. ',
       link: '',
     },
     {
@@ -427,6 +442,11 @@ export default {
     {
       referencia:
         'Parra, A., y Diazconti, R. (2013). <em>Guías para el debate: diferencias entre uso, abuso y dependencia a las drogas.</em> ',
+      link: '',
+    },
+    {
+      referencia:
+        'Política Integral para la Prevención y Atención del Consumo de Sustancias Psicoactivas. (2019). Colombia.',
       link: '',
     },
   ],
