@@ -1,1 +1,1 @@
-module.exports = 'Consumo, abuso y adicciones y marco normativ'
+module.exports = 'Consumo, abuso y adicciones y su marco normativo'

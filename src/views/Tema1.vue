@@ -273,7 +273,7 @@
           img(src="@/assets/curso/temas/tema1/tema1-10.svg", alt='"Círculo vicioso de las adicciones". En la figura se representa que el circulo vicioso se centra en vivir para consumir y consumir para vivir, rodeado de las acciones conseguir, consumir, nuevamente conseguir y consumir.')
 
       .col-12.mt-5(data-aos="fade-right")
-        p La dependencia puede evidenciarse de dos formas, como se muestra en las siguientes tarjetas:
+        p La dependencia puede evidenciarse de dos formas, como se muestra a continuación:
 
     .row.justify-content-center.mb-4.mt-4(data-aos="fade-left")
       .col-lg-4.col-md-6.col-12
